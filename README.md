@@ -1,16 +1,11 @@
-# localization
+# Localization
 
-A new Flutter project.
+Going Global with Flutter: New Localization Demo App!
 
-## Getting Started
+A Flutter app demonstrating localization features! This explores how to adapt an app's language, formatting, and even visuals for different regions.
+Perfect for developers looking to take their Flutter apps global 🌏 !
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/prateekthakur272/localization_flutter/assets/67188426/97ddb22b-14d6-4f0b-a0ea-8ee7b85a7345
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

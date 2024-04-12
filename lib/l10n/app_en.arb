@@ -1,0 +1,15 @@
+{
+    "@@locale": "en",
+    "title":"Localization",
+    "@title":{
+      "description":"App Title"
+    },
+    "hello":"Hello",
+    "@hello":{
+        "description":"greeting message"
+    },
+    "message":"This is a demo application to implement  localization in flutter applications",
+    "@message":{
+      "description":"message for users"
+    }
+  }

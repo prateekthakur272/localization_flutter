@@ -1,0 +1,7 @@
+{
+    "@@locale": "es",
+    "title":"Localización",
+    "hello":"Hola",
+    "message":"Esta es una aplicación de demostración para implementar la localización en aplicaciones de flutter."
+
+  }
